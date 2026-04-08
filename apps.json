@@ -1,0 +1,20 @@
+{
+  "name": "GSK's Apps",
+  "identifier": "com.gsksivesh.source",
+  "sourceURL": "https://raw.githubusercontent.com/gsksivesh/gsk-altstore-source/refs/heads/main/apps.json",
+  "apps": [
+    {
+      "name": "Kubera",
+      "bundleIdentifier": "com.kubera.kuberaapp.kuberaClient",
+      "developerName": "Srikrishna Sivesh",
+      "version": "1.0.0",
+      "versionDate": "2026-04-08T12:00:00Z",
+      "versionDescription": "Initial release.",
+      "downloadURL": "https://github.com/gsksivesh/gsk-altstore-source/releases/download/v1.0.0/kubera.ipa",
+      "localizedDescription": "Kubera financial manageent.",
+      "iconURL": "https://raw.githubusercontent.com/gsksivesh/gsk-altstore-source/refs/heads/main/assets/icon.png",
+      "tintColor": "007AFF",
+      "size": 39010105 
+    }
+  ]
+}
