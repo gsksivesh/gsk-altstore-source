@@ -7,14 +7,14 @@
       "name": "Kubera",
       "bundleIdentifier": "com.kubera.kuberaapp.kuberaClient",
       "developerName": "Srikrishna Sivesh",
-      "version": "1.2.0",
-      "versionDate": "2026-04-09T20:10:53Z",
-      "versionDescription": "Update Kubera to v1.1.2: feat(transactions): enhance account selection with default account support and grid-based popup",
-      "downloadURL": "https://github.com/gsksivesh/gsk-altstore-source/releases/download/v1.2.0/kubera.ipa",
+      "version": "1.2.7",
+      "versionDate": "",
+      "versionDescription": "",
+      "downloadURL": "https://github.com/gsksivesh/gsk-altstore-source/releases/download/v/kubera.ipa",
       "localizedDescription": "Kubera financial manageent.",
       "iconURL": "https://gsksivesh.github.io/gsk-altstore-source/assets/icon.png",
       "tintColor": "007AFF",
-      "size": 166
+      "size": 39407116
     }
   ]
 }
