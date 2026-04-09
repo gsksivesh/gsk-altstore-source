@@ -7,14 +7,14 @@
       "name": "Kubera",
       "bundleIdentifier": "com.kubera.kuberaapp.kuberaClient",
       "developerName": "Srikrishna Sivesh",
-      "version": "1.1.0",
-      "versionDate": "2026-04-08T09:30:31Z",
-      "versionDescription": "feat(transactions): add running balance to Transaction model and display it in the UI",
-      "downloadURL": "https://github.com/gsksivesh/gsk-altstore-source/releases/download/v1.1.0/kubera.ipa",
+      "version": "1.1.1",
+      "versionDate": "2026-04-09T18:38:25Z",
+      "versionDescription": "feat(transactions): enhance account selection with default account support and grid-based popup",
+      "downloadURL": "https://github.com/gsksivesh/gsk-altstore-source/releases/download/v1.1.1/kubera.ipa",
       "localizedDescription": "Kubera financial manageent.",
       "iconURL": "https://gsksivesh.github.io/gsk-altstore-source/assets/icon.png",
       "tintColor": "007AFF",
-      "size": 39010532
+      "size": 39041282
     }
   ]
 }
